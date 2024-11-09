@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DTabaresV
-- 👀 I’m interested in Java, C language
+- 👀 I’m interested in Java,C, Phyton and VHDL
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me ...
